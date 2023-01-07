@@ -22,9 +22,8 @@ My name is Kevin and I'm a software engineer with a civil engineering background
 - Web development
 - Trading options and NFT's
 
-📫 Reach me by email or LinkedIn! kevinlinpt@hotmail.com | www.linkedin.com/in/kevinlin1998/
-
 ⚡ Fun fact: 
 
 - Played in e-sports amateur leagues as a representative of the University of Ottawa League of Legends team. Won $10,000+ in academic scholarships.
 
+📫 Reach me by email or LinkedIn! kevinlinpt@hotmail.com | www.linkedin.com/in/kevinlin1998/
