@@ -7,7 +7,8 @@ My name is Kevin and I'm a software engineer with a background in civil engineer
 
 ⚡ Work experience:
 
-- **Software Engineer intern at Wealthsimple** - Full-stack development on the Managed Investing Team working on Options Trading. [Toronto. Winter 2023]
+- **Software Engineer intern at [Wealthsimple](https://www.wealthsimple.com/en-ca/about "Wealthsimple's About Page")** 
+- Full-stack development on the Managed Investing Team working on Options Trading. [Toronto. Winter 2023]
 - **Project Co-ordinator at Infrastructure Ontario** - Worked with stakeholders and engineers to manage billion dollar hospital projects on the Project Delivery Team [Toronto. Jul 2022 - Dec 2022]
 - **Civil Engineer at Kiewit** - Spearheaded $180M bridge project on the Civil Team. [Kingston. Jan 2021 - Jun 2022]
 - **16 months of internships** in engineering roles during post-secondary education
@@ -26,4 +27,6 @@ My name is Kevin and I'm a software engineer with a background in civil engineer
 
 - Played in e-sports amateur leagues as a representative of the University of Ottawa League of Legends team. Won $10,000+ in academic scholarships.
 
-📫 Reach me by email or LinkedIn! kevinlinpt@hotmail.com | www.linkedin.com/in/kevinlin1998/
+☕️ I'm always down for a coffee chat about anything - let's connect!
+
+📫 You can reach out to me by email or LinkedIn! kevinlinpt@hotmail.com | www.linkedin.com/in/kevinlin1998/
