@@ -8,7 +8,7 @@ My name is Kevin and I'm a software engineer with a background in civil engineer
 ⚡ Work experience:
 
 - **Software Engineer at [Wealthsimple](https://www.wealthsimple.com/en-ca/about "Wealthsimple's About Page")** 
-- Full-stack development on the Stocks Team (prev. Options team) working on Margin Trading and other cool stuff :) [Toronto. Mar 2024]
+- **Full-stack development on the Stocks Team** (prev. Options team) working on Margin Trading & other cool stuff :) [Toronto. Mar 2024]
 - **Project Co-ordinator at Infrastructure Ontario** - Worked with stakeholders and engineers to manage billion dollar hospital projects on the Project Delivery Team [Toronto. Jul 2022 - Dec 2022]
 - **Civil Engineer at Kiewit** - Spearheaded $180M bridge project on the Civil Team. [Kingston. Jan 2021 - Jun 2022]
 - **16 months of internships** in engineering roles during post-secondary education
